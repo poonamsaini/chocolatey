@@ -21,18 +21,20 @@ Chocolatey installs desktop apps without having to click through an interminable
        1. Open powershell in administration mode.
             - Type powershell in search and right click and select run as administrator. OR
             - Type powershell in search and press ctrl+shift+enter.
-        2. Paste **iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex** and hit enter.
+        2. Paste iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex and hit enter.
         ```
        
   
    
    2. **USING CMD PROMPT**
    
+   ```
         1. Open cmd prompt in administration mode.
             - Type cmd prompt in search and right click and select run as administrator.  OR
             - Type cmd prompt in search and press ctrl+shift+enter.
-        2. Paste ```@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"```
+        2. Paste @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
             and hit enter.
+            ```
             
             
            
