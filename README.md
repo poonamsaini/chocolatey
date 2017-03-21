@@ -11,7 +11,7 @@ Chocolatey installs desktop apps without having to click through an interminable
 
 
 
-Alt-STEPS TO INSTALL CHOCOLATEY -
+Alt-H1 STEPS TO INSTALL CHOCOLATEY -
 
 1. Go to https://chocolatey.org. Click on Install Chocolatey Now.
 2. There are two ways of installing
