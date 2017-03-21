@@ -50,7 +50,7 @@ Chocolatey installs desktop apps without having to click through an interminable
 
 ## COMMANDS FOR USING CHOCOLATEY -
 
-1. You can find the list of commands and documentation at https://chocolatey.org/docs/commands-reference or simply type "choco -h" from  powershell/cmd prompt in admin mode, once you have CHOCOLATEY installed.
+You can find the list of commands and documentation at https://chocolatey.org/docs/commands-reference or simply type "choco -h" from  powershell/cmd prompt in admin mode, once you have CHOCOLATEY installed.
    
  
 
