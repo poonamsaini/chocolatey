@@ -1,4 +1,4 @@
-# chocolatey
+#  CHOCOLATEY
 The sane way to manage software on Windows.
 
 Irritated with installing desktop programs on your system from a website,by downloading an EXE or MSI file, and then clicking all the way through the installation. That is an easy, but time consuming.
@@ -11,7 +11,7 @@ Chocolatey installs desktop apps without having to click through an interminable
 
 
 
- # STEPS TO INSTALL CHOCOLATEY -
+ ## STEPS TO INSTALL CHOCOLATEY -
 
 1. Go to https://chocolatey.org. Click on Install Chocolatey Now.
 2. There are two ways of installing
@@ -37,7 +37,7 @@ a) USING POWER SHELL
             
            
 
-# USING CHOCOLATEY -
+## USING CHOCOLATEY -
 
 1. Again open the powershell/cmd prompt in admin mode.
 2. Go to https://chocolatey.org/packages and select a software to download.
@@ -51,7 +51,7 @@ NOTE : While installing, you have to give the exact name , for example to downlo
 
 
 
-# COMMANDS FOR USING CHOCOLATEY -
+## COMMANDS FOR USING CHOCOLATEY -
 
 1. You can find the list of commands and documentation at https://chocolatey.org/docs/commands-reference or simply type "choco -h" from  powershell/cmd prompt in admin mode, once you have CHOCOLATEY installed.
    
