@@ -15,7 +15,7 @@ Chocolatey installs desktop apps without having to click through an interminable
 
 1. Go to https://chocolatey.org. Click on "Install Chocolatey Now" and follow the instructions OR
 2. There are two ways of installing -:
-  1. USING POWER SHELL
+    1. USING POWER SHELL  
      
      * Open powershell in administration mode.
        - Type powershell in search and right click and select run as administrator. OR
