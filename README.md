@@ -8,16 +8,19 @@ Well, here is when, "Chocolatey" works as a saviour.
 Chocolatey installs desktop apps without having to click through an interminable number of installation windows.
 
 
+
+
+
 STEPS TO INSTALL CHOCOLATEY -
 
 1. Go to https://chocolatey.org. Click on Install Chocolatey Now.
-2. There are two ways of installing-
-    a) USING POWER SHELL
-      i) Open powershell in administration mode.
+2. There are two ways of installing
+a) USING POWER SHELL
+	i) Open powershell in administration mode.
           -Type powershell in search and right click and select run as administrator.
                             OR
                -Type powershell in search and press ctrl+shift+enter.
-      ii) Paste 
+     ii) Paste 
           iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex 
           and hit enter.
   
@@ -33,6 +36,7 @@ STEPS TO INSTALL CHOCOLATEY -
             
             
            
+
 USING CHOCOLATEY -
 1. Again open the powershell/cmd prompt in admin mode.
 2. Go to https://chocolatey.org/packages and select a software to download.
@@ -43,8 +47,14 @@ USING CHOCOLATEY -
 NOTE : While installing, you have to give the exact name , for example to download notepad++, you need to give "cinst notepadplusplus".
 
 
+
+
+
 COMMANDS FOR USING CHOCOLATEY -
 1. You can find the list of commands and documentation at https://chocolatey.org/docs/commands-reference or simply type "choco -h" from  powershell/cmd prompt in admin mode, once you have CHOCOLATEY installed.
    
+
+
+
 
 CHOCOLATEY IS AN EASY WAY OF AVOIDING UNNECESSARY CLICKS AND QUICKLY INSTALLING APPLICATIONS AND TOOLS THAT YOU NEED.       
