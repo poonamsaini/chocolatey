@@ -22,6 +22,8 @@ Chocolatey installs desktop apps without having to click through an interminable
        - Type powershell in search and press ctrl+shift+enter.
      * Paste 
        ```iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex``` and hit enter.
+       
+  
    
    2. USING CMD PROMPT
    
@@ -52,9 +54,4 @@ Chocolatey installs desktop apps without having to click through an interminable
 
 You can find the list of commands and documentation at https://chocolatey.org/docs/commands-reference or simply type "choco -h" from  powershell/cmd prompt in admin mode, once you have CHOCOLATEY installed.
    
- 
-
-
-
-
-CHOCOLATEY IS AN EASY WAY OF AVOIDING UNNECESSARY CLICKS AND QUICKLY INSTALLING APPLICATIONS AND TOOLS THAT YOU NEED.    
+ CHOCOLATEY IS AN EASY WAY OF AVOIDING UNNECESSARY CLICKS AND QUICKLY INSTALLING APPLICATIONS AND TOOLS THAT YOU NEED.    
