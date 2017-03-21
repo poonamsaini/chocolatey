@@ -17,10 +17,10 @@ Chocolatey installs desktop apps without having to click through an interminable
 2. There are two ways of installing -:
     1. USING POWER SHELL  
      
-     * Open powershell in administration mode.
-       - Type powershell in search and right click and select run as administrator. OR
-       - Type powershell in search and press ctrl+shift+enter.
-     * Paste 
+        * Open powershell in administration mode.
+            - Type powershell in search and right click and select run as administrator. OR
+            - Type powershell in search and press ctrl+shift+enter.
+        * Paste 
        ```iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex``` and hit enter.
        
   
