@@ -1,7 +1,7 @@
 #  CHOCOLATEY
 The sane way to manage software on Windows.
 
-Irritated with installing desktop programs on your system from a website,by downloading an EXE or MSI file, and then clicking all the way through the installation. That is an easy, but time consuming.
+Are you irritated with installing desktop programs on your system from a website,by downloading an EXE or MSI file, and then clicking all the way through the installation ???
 
 Well, here is when, **"Chocolatey"** works as a saviour.
 
@@ -59,4 +59,4 @@ Chocolatey installs desktop apps without having to click through an interminable
 
 You can find the list of commands and documentation at https://chocolatey.org/docs/commands-reference or simply type "choco -h" from  powershell/cmd prompt in admin mode, once you have CHOCOLATEY installed.
    
- CHOCOLATEY IS AN EASY WAY OF AVOIDING UNNECESSARY CLICKS AND QUICKLY INSTALLING APPLICATIONS AND TOOLS THAT YOU NEED.    
+**CHOCOLATEY IS AN EASY WAY OF AVOIDING UNNECESSARY CLICKS AND QUICKLY INSTALLING APPLICATIONS AND TOOLS THAT YOU NEED.**    
