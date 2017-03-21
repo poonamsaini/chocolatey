@@ -3,7 +3,7 @@ The sane way to manage software on Windows.
 
 Irritated with installing desktop programs on your system from a website,by downloading an EXE or MSI file, and then clicking all the way through the installation. That is an easy, but time consuming.
 
-Well, here is when, "Chocolatey" works as a saviour.
+Well, here is when, **"Chocolatey"** works as a saviour.
 
 Chocolatey installs desktop apps without having to click through an interminable number of installation windows.
 
@@ -15,7 +15,7 @@ Chocolatey installs desktop apps without having to click through an interminable
 
 1. Go to https://chocolatey.org. Click on Install Chocolatey Now.
 2. There are two ways of installing
-a) USING POWER SHELL
+a) **USING POWER SHELL**
 	i) Open powershell in administration mode.
           -Type powershell in search and right click and select run as administrator.
                             OR
@@ -25,7 +25,7 @@ a) USING POWER SHELL
           and hit enter.
   
   
-     b) USING CMD PROMPT
+     b) **USING CMD PROMPT**
       i) Open cmd prompt in administration mode.
           -Type cmd prompt in search and right click and select run as administrator.
                             OR
@@ -45,7 +45,7 @@ a) USING POWER SHELL
 4. Example - "cinst vlc" for installing. "cunist vlc" to unistall. "choco upgrade all" to upgrade all.
 
 
-NOTE : While installing, you have to give the exact name , for example to download notepad++, you need to give "cinst notepadplusplus".
+**NOTE** : While installing, you have to give the exact name , for example to download notepad++, you need to give "cinst notepadplusplus".
 
 
 
